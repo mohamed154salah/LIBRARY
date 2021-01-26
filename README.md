@@ -11,4 +11,4 @@ using
 ### javascribt
 ### firebase realtime database
 
-# live demo (https://mohamed154salah.github.io/LIBRARY/) library
+# live demo (https://mohamed154salah.github.io/LIBRARY/)
